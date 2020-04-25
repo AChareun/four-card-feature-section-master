@@ -1,0 +1,54 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  background-color: hsl(0, 0%, 98%);
+}
+
+header {
+  text-align: center;
+  color: hsl(229, 6%, 66%);
+  font-weight: 400;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+}
+
+.top-header {
+  font-weight: 200;
+  color: hsl(234, 12%, 34%);
+}
+
+.bot-header {
+  font-weight: 600;
+  color: hsl(234, 12%, 34%);
+  padding-bottom: 10px;
+}
+
+.card-title {
+  font-weight: 600;
+  color: hsl(234, 12%, 34%);
+}
+
+.card-text {
+  font-weight: 200;
+  color: hsl(229, 6%, 66%);
+  font-size: 15px;
+}
+
+.supervisor {
+  border-top: hsl(180, 62%, 55%) solid 5px;
+}
+
+.team-builder {
+  border-top: hsl(0, 78%, 62%) solid 5px;
+}
+
+.karma {
+  border-top: hsl(34, 97%, 64%) solid 5px;
+}
+
+.calculator {
+  border-top: hsl(212, 86%, 64%) solid 5px;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
